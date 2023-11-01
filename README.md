@@ -1,0 +1,2 @@
+<h1>Job Finder</h1>
+<p>I utilized Axios for data fetching operations, React Router Dom for managing page redirection and multi-page structure, created a basic API using JSON Server, managed state with Toolkit, and delivered user notifications using React-Toastify.</p>
